@@ -1,0 +1,4 @@
+Buraya istedigini
+yaz,
+konsolda onu
+gör!!
